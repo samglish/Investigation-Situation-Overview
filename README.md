@@ -17,8 +17,7 @@
 
 ### Aspects of organizational security
 |-----------------------|-----------------------------------------------------------------------------|
-| IT security           | Protection of hardware, facilities, and personnel from physical threats.     |
-| Physical security     | Safeguarding network infrastructure and data in transit.                     |
-| Financial security    | Ensuring confidentiality, integrity, and availability of data.               |
-| Legal security        | Managing user permissions and authentication mechanisms.                     |
-| Incident Response     | Procedures for detecting, responding to, and recovering from security events.|
+| IT security           | Application, antivirus, networks                                            |
+| Physical security     | Individuals, biometric security                                             |
+| Financial security    | Ensuring confidentiality, integrity, and availability of data.              |
+| Legal security        | Managing user permissions and authentication mechanisms.                    |

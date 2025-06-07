@@ -13,3 +13,4 @@
 > Techniques used by hackers.
 
 ### statistics
+<img src="fig.png" width="100%">

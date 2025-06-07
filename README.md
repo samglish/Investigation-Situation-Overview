@@ -13,7 +13,7 @@
 
 ### Aspects of Organizational Security
 
-| Aspect             | Examples                                   |
+
 |--------------------|--------------------------------------------|
 | IT security        | Application, antivirus, networks           |
 | Physical security  | Individuals, biometric security            |

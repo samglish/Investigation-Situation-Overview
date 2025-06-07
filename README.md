@@ -20,4 +20,4 @@
 | IT security           | Application, antivirus, networks                                            |
 | Physical security     | Individuals, biometric security                                             |
 | Financial security    | Fraud, botnets, phishing                                                    |
-| Legal security        | Managing user permissions and authentication mechanisms.                    |
+| Legal security        | National security, copyright                                                |

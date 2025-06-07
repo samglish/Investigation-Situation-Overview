@@ -9,3 +9,5 @@ Forensics (or forensic analysis)
 > Valid legal evidence.
 
 > Ethical orientation.
+
+> Techniques used by hackers.

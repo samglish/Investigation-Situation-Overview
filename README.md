@@ -19,5 +19,5 @@
 |-----------------------|-----------------------------------------------------------------------------|
 | IT security           | Application, antivirus, networks                                            |
 | Physical security     | Individuals, biometric security                                             |
-| Financial security    | Ensuring confidentiality, integrity, and availability of data.              |
+| Financial security    | Fraud, botnets, phishing                                                    |
 | Legal security        | Managing user permissions and authentication mechanisms.                    |

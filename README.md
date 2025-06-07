@@ -19,6 +19,6 @@
 |-----------------------|-----------------------------------------------------------------------------|
 | IT security           | Protection of hardware, facilities, and personnel from physical threats.     |
 | Physical security     | Safeguarding network infrastructure and data in transit.                     |
-| Information Security  | Ensuring confidentiality, integrity, and availability of data.               |
+| Financial security    | Ensuring confidentiality, integrity, and availability of data.               |
 | Access Control        | Managing user permissions and authentication mechanisms.                     |
 | Incident Response     | Procedures for detecting, responding to, and recovering from security events.|

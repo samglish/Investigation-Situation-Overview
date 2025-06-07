@@ -15,4 +15,4 @@
 ### statistics
 <img src="fig.png" width="100%">
 
-### Aspects of organizational security.
+### Aspects of organizational security
